@@ -7,6 +7,6 @@ def my_each(array)
     i=i+1 
   end
   array
-
+end
   
 end
